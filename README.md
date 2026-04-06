@@ -27,17 +27,17 @@ Please bring your laptop if you'd like to follow along with the demo and setup w
 
 ## Follow Along During Demo
 
-We will be using Google Colaborate for a code demo. Participants can choose to follow along on their own laptops. 
+We will be using Google Colaboratory for a code demo. Participants can choose to follow along on their own laptops. 
 
-**If you have a gmail account**: If you do not have python installed but have a gmail account, you can follow along with Google Colaborate:
+**If you have a gmail account**: If you do not have python installed but have a gmail account, you can follow along with Google Colaboratory:
 
-1.Go to: [Colab](https://colab.research.google.com)
-2. Sign in with your Google account
-3. (If prompted) allow Google Colab access 
-4. Click on the following link: [Demo File](https://colab.research.google.com/github/mattyv18/CSAS_2026_Intro_to_Python/blob/main/demo.ipynb)
-5. Click on "Connect" (top right)
-6. Click "Copy to Drive” to save your own editable copy
-8. Follow along!
+1. Go to: [Colab](https://colab.research.google.com)
+2. Sign in with your Google account  
+3. (If prompted) allow Google Colab access     
+4. Click on the following link: [Demo File](https://colab.research.google.com/github/mattyv18/CSAS_2026_Intro_to_Python/blob/main/demo.ipynb)  
+5. Click on "Connect" (top right)  
+6. Click "Copy to Drive” to save your own editable copy  
+8. Follow along!  
 <br/>
 
 **If you do not have
