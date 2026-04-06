@@ -29,7 +29,7 @@ Please bring your laptop if you'd like to follow along with the demo and setup w
 
 We will be using Google Colaborate for a code demo. Participants can choose to follow along on their own laptops. 
 
-**If you have a gmail account**: If you do not have python installed but have a gmail account, you can follow along with Google Colaborate. 
+**If you have a gmail account**: If you do not have python installed but have a gmail account, you can follow along with Google Colaborate:
 
 1.Go to: [Colab](https://colab.research.google.com)
 2. Sign in with your Google account
