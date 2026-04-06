@@ -14,7 +14,7 @@ format:
 # About Me
 
 
-![](Images/Me.jpeg){width=300px}
+![](images/Me.jpeg){width=300px}
 
 - 3rd Year Applied Mathematics and Statistics Student at UConn
 - Unergraduate Time Series Researcher
@@ -46,7 +46,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-ends = pd.read_csv("/Users/matthewvenzie/py-workshop/Data/Ends.csv")
+ends = pd.read_csv("data/Ends.csv")
 
 # Optional: clean PowerPlay (ensure consistent categories)
 ends["PowerPlay"] = ends["PowerPlay"].fillna(0)
@@ -502,7 +502,7 @@ class SoccerPlayer:
     def total_contribution(self):
         return self.goals + self.assists
 
-    def add_match(self, assists_scored, goals_scored):
+    deøf add_match(self, assists_scored, goals_scored):
         self.goals += goals_scored
         self.assists += assists_scored
         self.matches_played += 1
