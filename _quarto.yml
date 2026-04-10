@@ -1,8 +1,0 @@
-project:
-  type: book
-
-book:
-  title: "CSAS 2026 Intro to Python"
-  author: "Your Name"
-  chapters:
-    - index.qmd
