@@ -124,6 +124,9 @@ print("Are you bored?")
   - `replace("a", "b")`: replaces a with b in string
   - `split()`: splits a string based on a given separator in () that can be found in the string
   - `upper()` converts letters to uppercase, `lower()` converts letters to lower case, `strip()` removes leading and trailing whitespace, `capitalize()` capitalizes first letter and makes rest lower case
+
+---
+
   - `count('a')` counts how many times 'a' appears in string, `endswith('a')` checks if string ends with substring 'a' and returns boolean, `startswith('a')` checks if a string starts with specified substring 'a' and returns boolean, `find('a')` returns the index of first occurence of specified substring 'a' and returns -1 if not found, `index('a')` same as find raise error
 
 ---
@@ -191,8 +194,11 @@ r"./practice.txt"
   - Slice of elements 0-1: `x[:2]`
   - Slice of elements 2-(n-1), with element n being the last element of the list: `x[2:]`
   - Copy of entire list: `x[:]`
+
+---
+
 - Elements can be modified using `x[1:4] = ["UCSAS", [1,2,3]]`
-  - Thie would replace how ever many elemnts are indicated in teh slice with the elements provided, so elements 1,2,3 are replaced with `"UCSAS", [1,2,3]`
+  - This would replace how ever many elements are indicated in the slice with the elements provided, so elements 1,2,3 are replaced with `"UCSAS", [1,2,3]`
   
 ---
 
@@ -232,6 +238,8 @@ r"./practice.txt"
 - A `dict` is a mapped data type
   - This means it consists of a key-value pair, where a key is used to access a value i.e. the key maps to the value.
 - The keys of a dictionary are immutable & duplicate keys will replace the original value, but the values themselves are mutable
+
+---
 
 ```python
 >>> ucsas = {"workshop": "Introduction To Python", "year": 2026} # creatng the dictionary
