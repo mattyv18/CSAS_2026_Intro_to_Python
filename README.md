@@ -72,6 +72,15 @@ I am currently a junior double majoring in Applied Mathematics and Statistics at
 Data used in this workshop is obtained from [CSAS Website](https://statds.org/events/csas2026/challenge.html)
 <br/>
 
+## Reproducing Slides:
+
+1. First type `git clone https://github.com/mattyv18/CSAS_2026_Intro_to_Python.git` in terminal
+2. Then type `cd CSAS_2026_Intro_to_Python` in the terminal
+3. `python3 -m venv venv` to create an environment
+4. source `venv/bin/activate` to activate the environment
+5. `pip install -r requirements.txt` to install required packages and dependencies
+6. `quarto render` to render slides
+
 # Goodluck and Have Fun!
 
 
