@@ -207,6 +207,9 @@ r"./practice.txt"
   - `x.insert(2, "Python")`: Insterts "Python" at index 2 of list x
   - `x.append("Python")`: Adds "Python" as new element at end of list x
   - `x.remove(2)`: Removes first occerence of element 2 from list x
+
+---
+
   - `x.pop(1)`: Removes and returns element at index 1
   - `x.sort()`: Sorts elements of list in order i.e. numerical if elements are integers and floats and alphabetical if strings
   - `y = x.copy()`: Creates copy of list x
@@ -280,6 +283,8 @@ r"./practice.txt"
 - Is as simple as writing the name of the variable `=` to some value.
 - There is no need to define the type of the variable in Python, as it is determined on its own.
 
+---
+
 ```python
 # Integer Assignment
 >>> x = 2
@@ -319,6 +324,8 @@ Arithmetic Operators:
 Assignment Operators:
 
 - equals: `=`, add and equal: `+=`, subtract and equal: `-=`, multiply and equal: `*=`, divide and equal: `/=`
+
+---
 
 Comparison Operators:
 
@@ -401,6 +408,8 @@ print('Player A wins') if a_score > b_score else print('Player B wins')
 - Used to iterate over a sequence.
 - `range(y, x)` function is useful as it gives a list of integers from y to x to iterate over excluding x
   -By default range(x) will start at 0 and stop at x
+
+---
 
 ```python
 ## How many balls did the pitcher throw
@@ -567,6 +576,8 @@ sorted(iterable, /, *, key=None, reverse=False)
 ### Packages
 
 In Python, a package is a collection of modules grouped together to organize and structure code. It allows for better code management, reuse, and distribution.
+
+---
 
 ### Package Manager
 
