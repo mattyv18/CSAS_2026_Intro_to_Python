@@ -80,8 +80,8 @@ Data used in this workshop is obtained from [CSAS Website](https://statds.org/ev
 - `python3 -m venv venv` to create an environment
 - `source venv/bin/activate` to activate the environment
 4. Windows:
-- python -m venv venv
-- venv\Scripts\activate
+- `python -m venv venv`
+- `venv\Scripts\activate`
 5. `pip install -r requirements.txt` to install required packages and dependencies
 6. `quarto render index.qmd` to render slides
 
